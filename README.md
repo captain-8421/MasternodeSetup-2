@@ -24,6 +24,6 @@ To install UltraClear(UCR) Masternode use the following command:
 
 - Enjoy
 
-check your masternode status using `jackpot-cli getmasternodestatus` after run it from local wallet
+check your masternode status using `ucr-cli getmasternodestatus` after run it from local wallet
 
 If you still facing any issues then join our <a href="https://discordapp.com/invite/BwMgvW">Discord server</a> for support, We available 24 hour for support you.
