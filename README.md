@@ -12,7 +12,7 @@ Ultra Clear masternode setup
 2. Download Local Wallet for your operating system: : https://github.com/ucrcoin/UCR/releases/
 
 Reward structure:
-<img src="https://i.imgur.com/OIt0cEg.png" alt "UCR Reward Structure">
+<img src="https://i.imgur.com/OIt0cEg.png" alt="UCR Reward Structure">
 
 3. You will need also VPS with Ubuntu 16.04 or 18.04
 
